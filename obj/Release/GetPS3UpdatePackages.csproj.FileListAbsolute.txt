@@ -1,0 +1,6 @@
+E:\Programming\GetPS3UpdatePackages\GetPS3UpdatePackages\bin\Release\GetPS3UpdatePackages.exe.config
+E:\Programming\GetPS3UpdatePackages\GetPS3UpdatePackages\bin\Release\GetPS3UpdatePackages.exe
+E:\Programming\GetPS3UpdatePackages\GetPS3UpdatePackages\bin\Release\GetPS3UpdatePackages.pdb
+E:\Programming\GetPS3UpdatePackages\GetPS3UpdatePackages\obj\Release\GetPS3UpdatePackages.csproj.CoreCompileInputs.cache
+E:\Programming\GetPS3UpdatePackages\GetPS3UpdatePackages\obj\Release\GetPS3UpdatePackages.exe
+E:\Programming\GetPS3UpdatePackages\GetPS3UpdatePackages\obj\Release\GetPS3UpdatePackages.pdb
